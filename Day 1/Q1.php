@@ -4,12 +4,10 @@ $gender = "Male";
 if ($age >= 31 && $age <= 50) {
     if ($gender = "Male") {
         echo ("Hello man!");
-    }
-    elseif ($gender = "Female") {
+    } elseif ($gender = "Female") {
         echo ("Hello woman!");
     };
-}
-else {
+} else {
     echo ("Please enter proper age/gender");
 };
 ?>
