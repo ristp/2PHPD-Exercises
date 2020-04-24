@@ -5,8 +5,7 @@ for ($i = 65; $i < 91; $i++) {
 }
 // Loop to display the array elements 
 foreach ($arrayChar as $key => $value) { 
-    // Display the key and its 
-    // value of an array  
+    // Display the keys & values of $arrayChar
     echo $key . " => " . $value . ","; 
 } 
 ?>
