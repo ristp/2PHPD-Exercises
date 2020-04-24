@@ -1,0 +1,12 @@
+1. Write a conditional expression using the variables $age and $gender in an if statement to select a male person between 31 and 50 years of age and display an appropriate welcome message.
+
+2. Create an array with a loop for whose values are letters from A to Z. Then read this array with a foreach loop by displaying the indices and the values.
+
+3. Create and display car registration values starting at the value "AA 001 AA".
+If the complete script is run, it displays several million values from "AA 001 AA" to "ZZ 999 ZZ". The execution would therefore be very long and would risk blocking the server. To carry out a test, we will limit to the plate "ZZ 001 AA"
+
+4. Write an associative multi-dimensional array whose keys are person names and the values of the indexed arrays containing the person's first name, city of residence and age. Then make a display of the table.
+
+5. Create a PHP function that displays an alert box from the JavaScript function whose syntax is alert("string"). This function can be called with the text of the message to be displayed as a parameter. It is particularly useful to display error messages in an elegant way, without them remaining written in the page. The function returns the value TRUE.
+
+6. Transform a string written in different cases so that each word has an initial in uppercase (without using the ucwords() function).
