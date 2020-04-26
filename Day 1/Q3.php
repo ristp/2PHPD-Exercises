@@ -17,3 +17,7 @@ function prodFirstLetter($numberPlate)
         };
     };
 }
+
+prodFirstLetter($numberPlate);
+
+?>
