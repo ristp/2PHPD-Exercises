@@ -1,0 +1,5 @@
+1. Create a form with a group of fields entitled "Customer address". The group must allow the entry of the surname, first name, e-mail address, postal address, city and postcode. The data is then processed by a separate PHP file that retrieves the data and displays it in an HTML table.
+
+2. Upgrade the previous script by checking the existence of the data and displaying a JavaScript alert box if any of the data is missing.
+
+3. Change the previous script so that the form data is processed in the same file as the form itself.
